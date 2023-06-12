@@ -1,6 +1,3 @@
-package main;
-
-
 import java.io.*;
 import java.nio.file.FileStore;
 import java.nio.file.Files;
